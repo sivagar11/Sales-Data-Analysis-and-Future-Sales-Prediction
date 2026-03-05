@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+models/*.pkl
+outputs/*.csv
+outputs/*.json
