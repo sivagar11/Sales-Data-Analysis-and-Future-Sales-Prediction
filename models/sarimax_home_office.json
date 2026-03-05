@@ -1,0 +1,23 @@
+{
+  "segment": "Home Office",
+  "order": [
+    1,
+    0,
+    0
+  ],
+  "seasonal_order": [
+    0,
+    1,
+    1,
+    52
+  ],
+  "last_observed_week": "2022-12-26",
+  "n_observations": 198,
+  "metrics": {
+    "train_size": 146,
+    "test_size": 52,
+    "mae": 25.172908483881493,
+    "mse": 1137.2561022150862,
+    "rmse": 33.72322793291126
+  }
+}

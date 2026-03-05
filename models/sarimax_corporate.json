@@ -1,0 +1,23 @@
+{
+  "segment": "Corporate",
+  "order": [
+    1,
+    0,
+    1
+  ],
+  "seasonal_order": [
+    2,
+    1,
+    1,
+    52
+  ],
+  "last_observed_week": "2022-12-26",
+  "n_observations": 206,
+  "metrics": {
+    "train_size": 154,
+    "test_size": 52,
+    "mae": 29.317494819349374,
+    "mse": 1325.1331493353687,
+    "rmse": 36.40237834723672
+  }
+}
